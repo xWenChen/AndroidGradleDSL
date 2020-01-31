@@ -1,3 +1,7 @@
+转存 google 的文档
+
+gradle dsl 3.4 版本的暂时找不到，可以使用 3.3 版本的文档，从 index.html 网页中进入
+
 # [Reference for latest plugin version](http://google.github.io/android-gradle-dsl/current)
 [All versions](http://google.github.io/android-gradle-dsl) (http://google.github.io/android-gradle-dsl)
 
